@@ -22,7 +22,7 @@ A simple and user-friendly To-Do App that helps you organize your tasks efficien
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/AviPopo/todo-app.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or a real device.
